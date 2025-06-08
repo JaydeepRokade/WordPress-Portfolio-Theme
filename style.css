@@ -1,0 +1,32 @@
+Theme Name: Jaydeep Portfolio Theme
+Theme URI: https://github.com/jaydeeprokade/wordpress-portfolio-theme
+Author: Jaydeep Rokade
+Description: A clean, responsive WordPress theme for personal portfolios and blogs.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: jaydeep-portfolio
+*/
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+}
+
+header, footer {
+  background: #222;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+main {
+  padding: 20px 0;
+}
